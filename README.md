@@ -19,6 +19,6 @@ Bu proje, **Next.js 14 App Router**, **NextAuth.js**, **Auth0** ve **JWT** kulla
 
 ### 1️⃣ Depoyu klonla
 ```bash
-git clone https://github.com/<kullanici_adin>/next-auth.git
+git clone https://github.com/<smyyeeecngr>/next-auth.git
 cd next-auth
 
